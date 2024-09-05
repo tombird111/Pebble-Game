@@ -1,0 +1,2 @@
+playertest has drawn a 0 from bag TestBag
+playertest hand is 0

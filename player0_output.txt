@@ -1,0 +1,264 @@
+player0 has drawn a 10 from bag X
+player0 hand is 10
+player0 has drawn a 10 from bag X
+player0 hand is 10, 10
+player0 has drawn a 10 from bag X
+player0 hand is 10, 10, 10
+player0 has drawn a 10 from bag X
+player0 hand is 10, 10, 10, 10
+player0 has drawn a 11 from bag X
+player0 hand is 10, 10, 10, 10, 11
+player0 has drawn a 10 from bag X
+player0 hand is 10, 10, 10, 10, 11, 10
+player0 has drawn a 5 from bag X
+player0 hand is 10, 10, 10, 10, 11, 10, 5
+player0 has drawn a 8 from bag X
+player0 hand is 10, 10, 10, 10, 11, 10, 5, 8
+player0 has drawn a 15 from bag X
+player0 hand is 10, 10, 10, 10, 11, 10, 5, 8, 15
+player0 has drawn a 9 from bag X
+player0 hand is 10, 10, 10, 10, 11, 10, 5, 8, 15, 9
+player0 has discarded a 15 to bag A
+player0 hand is 10, 10, 10, 10, 11, 10, 5, 8, 9
+player0 has drawn a 10 from bag X
+player0 hand is 10, 10, 10, 10, 11, 10, 5, 8, 9, 10
+player0 has discarded a 11 to bag A
+player0 hand is 10, 10, 10, 10, 10, 5, 8, 9, 10
+player0 has drawn a 10 from bag Y
+player0 hand is 10, 10, 10, 10, 10, 5, 8, 9, 10, 10
+player0 has discarded a 8 to bag B
+player0 hand is 10, 10, 10, 10, 10, 5, 9, 10, 10
+player0 has drawn a 10 from bag Y
+player0 hand is 10, 10, 10, 10, 10, 5, 9, 10, 10, 10
+player0 has discarded a 10 to bag B
+player0 hand is 10, 10, 10, 10, 5, 9, 10, 10, 10
+player0 has drawn a 11 from bag Z
+player0 hand is 10, 10, 10, 10, 5, 9, 10, 10, 10, 11
+player0 has discarded a 11 to bag C
+player0 hand is 10, 10, 10, 10, 5, 9, 10, 10, 10
+player0 has drawn a 9 from bag Z
+player0 hand is 10, 10, 10, 10, 5, 9, 10, 10, 10, 9
+player0 has discarded a 9 to bag C
+player0 hand is 10, 10, 10, 10, 5, 10, 10, 10, 9
+player0 has drawn a 10 from bag Y
+player0 hand is 10, 10, 10, 10, 5, 10, 10, 10, 9, 10
+player0 has discarded a 10 to bag B
+player0 hand is 10, 10, 10, 10, 5, 10, 10, 9, 10
+player0 has drawn a 10 from bag Y
+player0 hand is 10, 10, 10, 10, 5, 10, 10, 9, 10, 10
+player0 has discarded a 10 to bag B
+player0 hand is 10, 10, 10, 10, 5, 10, 10, 9, 10
+player0 has drawn a 10 from bag Z
+player0 hand is 10, 10, 10, 10, 5, 10, 10, 9, 10, 10
+player0 has discarded a 10 to bag C
+player0 hand is 10, 10, 10, 5, 10, 10, 9, 10, 10
+player0 has drawn a 15 from bag Y
+player0 hand is 10, 10, 10, 5, 10, 10, 9, 10, 10, 15
+player0 has discarded a 10 to bag B
+player0 hand is 10, 10, 5, 10, 10, 9, 10, 10, 15
+player0 has drawn a 10 from bag X
+player0 hand is 10, 10, 5, 10, 10, 9, 10, 10, 15, 10
+player0 has discarded a 5 to bag A
+player0 hand is 10, 10, 10, 10, 9, 10, 10, 15, 10
+player0 has drawn a 8 from bag Y
+player0 hand is 10, 10, 10, 10, 9, 10, 10, 15, 10, 8
+player0 has discarded a 10 to bag B
+player0 hand is 10, 10, 10, 9, 10, 10, 15, 10, 8
+player0 has drawn a 15 from bag Z
+player0 hand is 10, 10, 10, 9, 10, 10, 15, 10, 8, 15
+player0 has discarded a 10 to bag C
+player0 hand is 10, 10, 9, 10, 10, 15, 10, 8, 15
+player0 has drawn a 10 from bag X
+player0 hand is 10, 10, 9, 10, 10, 15, 10, 8, 15, 10
+player0 has discarded a 8 to bag A
+player0 hand is 10, 10, 9, 10, 10, 15, 10, 15, 10
+player0 has drawn a 10 from bag Y
+player0 hand is 10, 10, 9, 10, 10, 15, 10, 15, 10, 10
+player0 has discarded a 10 to bag B
+player0 hand is 10, 10, 9, 10, 15, 10, 15, 10, 10
+player0 has drawn a 10 from bag Y
+player0 hand is 10, 10, 9, 10, 15, 10, 15, 10, 10, 10
+player0 has discarded a 10 to bag B
+player0 hand is 10, 10, 9, 10, 15, 10, 15, 10, 10
+player0 has drawn a 10 from bag Y
+player0 hand is 10, 10, 9, 10, 15, 10, 15, 10, 10, 10
+player0 has discarded a 10 to bag B
+player0 hand is 10, 10, 9, 15, 10, 15, 10, 10, 10
+player0 has drawn a 10 from bag Z
+player0 hand is 10, 10, 9, 15, 10, 15, 10, 10, 10, 10
+player0 has discarded a 10 to bag C
+player0 hand is 10, 10, 9, 15, 10, 15, 10, 10, 10
+player0 has drawn a 10 from bag Z
+player0 hand is 10, 10, 9, 15, 10, 15, 10, 10, 10, 10
+player0 has discarded a 15 to bag C
+player0 hand is 10, 10, 9, 15, 10, 10, 10, 10, 10
+player0 has drawn a 23 from bag Z
+player0 hand is 10, 10, 9, 15, 10, 10, 10, 10, 10, 23
+player0 has discarded a 10 to bag C
+player0 hand is 10, 9, 15, 10, 10, 10, 10, 10, 23
+player0 has drawn a 15 from bag X
+player0 hand is 10, 9, 15, 10, 10, 10, 10, 10, 23, 15
+player0 has discarded a 10 to bag A
+player0 hand is 9, 15, 10, 10, 10, 10, 10, 23, 15
+player0 has drawn a 10 from bag X
+player0 hand is 9, 15, 10, 10, 10, 10, 10, 23, 15, 10
+player0 has discarded a 9 to bag A
+player0 hand is 15, 10, 10, 10, 10, 10, 23, 15, 10
+player0 has drawn a 10 from bag Z
+player0 hand is 15, 10, 10, 10, 10, 10, 23, 15, 10, 10
+player0 has discarded a 10 to bag C
+player0 hand is 15, 10, 10, 10, 10, 23, 15, 10, 10
+player0 has drawn a 10 from bag Z
+player0 hand is 15, 10, 10, 10, 10, 23, 15, 10, 10, 10
+player0 has discarded a 23 to bag C
+player0 hand is 15, 10, 10, 10, 10, 15, 10, 10, 10
+player0 has drawn a 10 from bag Z
+player0 hand is 15, 10, 10, 10, 10, 15, 10, 10, 10, 10
+player0 has discarded a 10 to bag C
+player0 hand is 15, 10, 10, 10, 10, 15, 10, 10, 10
+player0 has drawn a 10 from bag Y
+player0 hand is 15, 10, 10, 10, 10, 15, 10, 10, 10, 10
+player0 has discarded a 10 to bag B
+player0 hand is 15, 10, 10, 10, 15, 10, 10, 10, 10
+player0 has drawn a 10 from bag Y
+player0 hand is 15, 10, 10, 10, 15, 10, 10, 10, 10, 10
+player0 has discarded a 15 to bag B
+player0 hand is 15, 10, 10, 10, 10, 10, 10, 10, 10
+player0 has drawn a 23 from bag Y
+player0 hand is 15, 10, 10, 10, 10, 10, 10, 10, 10, 23
+player0 has discarded a 10 to bag B
+player0 hand is 15, 10, 10, 10, 10, 10, 10, 10, 23
+player0 has drawn a 23 from bag X
+player0 hand is 15, 10, 10, 10, 10, 10, 10, 10, 23, 23
+player0 has discarded a 10 to bag A
+player0 hand is 15, 10, 10, 10, 10, 10, 10, 23, 23
+player0 has drawn a 20 from bag X
+player0 hand is 15, 10, 10, 10, 10, 10, 10, 23, 23, 20
+player0 has discarded a 23 to bag A
+player0 hand is 15, 10, 10, 10, 10, 10, 10, 23, 20
+player0 has drawn a 10 from bag Y
+player0 hand is 15, 10, 10, 10, 10, 10, 10, 23, 20, 10
+player0 has discarded a 10 to bag B
+player0 hand is 15, 10, 10, 10, 10, 10, 23, 20, 10
+player0 has drawn a 10 from bag Z
+player0 hand is 15, 10, 10, 10, 10, 10, 23, 20, 10, 10
+player0 has discarded a 10 to bag C
+player0 hand is 15, 10, 10, 10, 10, 23, 20, 10, 10
+player0 has drawn a 20 from bag Y
+player0 hand is 15, 10, 10, 10, 10, 23, 20, 10, 10, 20
+player0 has discarded a 15 to bag B
+player0 hand is 10, 10, 10, 10, 23, 20, 10, 10, 20
+player0 has drawn a 10 from bag Z
+player0 hand is 10, 10, 10, 10, 23, 20, 10, 10, 20, 10
+player0 has discarded a 10 to bag C
+player0 hand is 10, 10, 10, 23, 20, 10, 10, 20, 10
+player0 has drawn a 10 from bag X
+player0 hand is 10, 10, 10, 23, 20, 10, 10, 20, 10, 10
+player0 has discarded a 20 to bag A
+player0 hand is 10, 10, 10, 23, 10, 10, 20, 10, 10
+player0 has drawn a 10 from bag X
+player0 hand is 10, 10, 10, 23, 10, 10, 20, 10, 10, 10
+player0 has discarded a 23 to bag A
+player0 hand is 10, 10, 10, 10, 10, 20, 10, 10, 10
+player0 has drawn a 5 from bag X
+player0 hand is 10, 10, 10, 10, 10, 20, 10, 10, 10, 5
+player0 has discarded a 5 to bag A
+player0 hand is 10, 10, 10, 10, 10, 20, 10, 10, 10
+player0 has drawn a 10 from bag Z
+player0 hand is 10, 10, 10, 10, 10, 20, 10, 10, 10, 10
+player0 has discarded a 10 to bag C
+player0 hand is 10, 10, 10, 10, 20, 10, 10, 10, 10
+player0 has drawn a 10 from bag Z
+player0 hand is 10, 10, 10, 10, 20, 10, 10, 10, 10, 10
+player0 has discarded a 10 to bag C
+player0 hand is 10, 10, 10, 10, 20, 10, 10, 10, 10
+player0 has drawn a 10 from bag X
+player0 hand is 10, 10, 10, 10, 20, 10, 10, 10, 10, 10
+player0 has discarded a 10 to bag A
+player0 hand is 10, 10, 10, 20, 10, 10, 10, 10, 10
+player0 has drawn a 9 from bag X
+player0 hand is 10, 10, 10, 20, 10, 10, 10, 10, 10, 9
+player0 has discarded a 10 to bag A
+player0 hand is 10, 10, 20, 10, 10, 10, 10, 10, 9
+player0 has drawn a 15 from bag Z
+player0 hand is 10, 10, 20, 10, 10, 10, 10, 10, 9, 15
+player0 has discarded a 10 to bag C
+player0 hand is 10, 20, 10, 10, 10, 10, 10, 9, 15
+player0 has drawn a 20 from bag Z
+player0 hand is 10, 20, 10, 10, 10, 10, 10, 9, 15, 20
+player0 has discarded a 10 to bag C
+player0 hand is 20, 10, 10, 10, 10, 10, 9, 15, 20
+player0 has drawn a 8 from bag X
+player0 hand is 20, 10, 10, 10, 10, 10, 9, 15, 20, 8
+player0 has discarded a 20 to bag A
+player0 hand is 20, 10, 10, 10, 10, 10, 9, 15, 8
+player0 has drawn a 9 from bag X
+player0 hand is 20, 10, 10, 10, 10, 10, 9, 15, 8, 9
+player0 has discarded a 9 to bag A
+player0 hand is 20, 10, 10, 10, 10, 10, 9, 15, 8
+player0 has drawn a 10 from bag Y
+player0 hand is 20, 10, 10, 10, 10, 10, 9, 15, 8, 10
+player0 has discarded a 9 to bag B
+player0 hand is 20, 10, 10, 10, 10, 10, 15, 8, 10
+player0 has drawn a 12 from bag X
+player0 hand is 20, 10, 10, 10, 10, 10, 15, 8, 10, 12
+player0 has discarded a 12 to bag A
+player0 hand is 20, 10, 10, 10, 10, 10, 15, 8, 10
+player0 has drawn a 5 from bag Z
+player0 hand is 20, 10, 10, 10, 10, 10, 15, 8, 10, 5
+player0 has discarded a 10 to bag C
+player0 hand is 20, 10, 10, 10, 10, 15, 8, 10, 5
+player0 has drawn a 5 from bag X
+player0 hand is 20, 10, 10, 10, 10, 15, 8, 10, 5, 5
+player0 has discarded a 15 to bag A
+player0 hand is 20, 10, 10, 10, 10, 8, 10, 5, 5
+player0 has drawn a 10 from bag Y
+player0 hand is 20, 10, 10, 10, 10, 8, 10, 5, 5, 10
+player0 has discarded a 10 to bag B
+player0 hand is 20, 10, 10, 10, 8, 10, 5, 5, 10
+player0 has drawn a 10 from bag Y
+player0 hand is 20, 10, 10, 10, 8, 10, 5, 5, 10, 10
+player0 has discarded a 20 to bag B
+player0 hand is 10, 10, 10, 8, 10, 5, 5, 10, 10
+player0 has drawn a 10 from bag Y
+player0 hand is 10, 10, 10, 8, 10, 5, 5, 10, 10, 10
+player0 has discarded a 10 to bag B
+player0 hand is 10, 10, 8, 10, 5, 5, 10, 10, 10
+player0 has drawn a 12 from bag Y
+player0 hand is 10, 10, 8, 10, 5, 5, 10, 10, 10, 12
+player0 has discarded a 5 to bag B
+player0 hand is 10, 10, 8, 10, 5, 10, 10, 10, 12
+player0 has drawn a 23 from bag Z
+player0 hand is 10, 10, 8, 10, 5, 10, 10, 10, 12, 23
+player0 has discarded a 10 to bag C
+player0 hand is 10, 10, 8, 10, 5, 10, 10, 12, 23
+player0 has drawn a 10 from bag Z
+player0 hand is 10, 10, 8, 10, 5, 10, 10, 12, 23, 10
+player0 has discarded a 10 to bag C
+player0 hand is 10, 8, 10, 5, 10, 10, 12, 23, 10
+player0 has drawn a 15 from bag Y
+player0 hand is 10, 8, 10, 5, 10, 10, 12, 23, 10, 15
+player0 has discarded a 10 to bag B
+player0 hand is 10, 8, 10, 5, 10, 10, 12, 23, 15
+player0 has drawn a 15 from bag X
+player0 hand is 10, 8, 10, 5, 10, 10, 12, 23, 15, 15
+player0 has discarded a 10 to bag A
+player0 hand is 10, 8, 10, 5, 10, 12, 23, 15, 15
+player0 has drawn a 23 from bag X
+player0 hand is 10, 8, 10, 5, 10, 12, 23, 15, 15, 23
+player0 has discarded a 23 to bag A
+player0 hand is 10, 8, 10, 5, 10, 12, 23, 15, 15
+player0 has drawn a 20 from bag X
+player0 hand is 10, 8, 10, 5, 10, 12, 23, 15, 15, 20
+player0 has discarded a 15 to bag A
+player0 hand is 10, 8, 10, 5, 10, 12, 23, 15, 20
+player0 has drawn a 9 from bag X
+player0 hand is 10, 8, 10, 5, 10, 12, 23, 15, 20, 9
+player0 has discarded a 10 to bag A
+player0 hand is 8, 10, 5, 10, 12, 23, 15, 20, 9
+player0 has drawn a 20 from bag Y
+player0 hand is 8, 10, 5, 10, 12, 23, 15, 20, 9, 20
+player0 has discarded a 9 to bag B
+player0 hand is 8, 10, 5, 10, 12, 23, 15, 20, 20
+player0 has drawn a 10 from bag Y
+player0 hand is 8, 10, 5, 10, 12, 23, 15, 20, 20, 10

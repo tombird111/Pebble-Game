@@ -1,0 +1,2 @@
+TestPlayer has drawn a 100 from bag 0
+TestPlayer hand is 100

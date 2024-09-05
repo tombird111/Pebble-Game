@@ -1,0 +1,52 @@
+player0 has drawn a 15 from bag X
+player0 hand is 15
+player0 has drawn a 10 from bag X
+player0 hand is 15, 10
+player0 has drawn a 11 from bag X
+player0 hand is 15, 10, 11
+player0 has drawn a 8 from bag X
+player0 hand is 15, 10, 11, 8
+player0 has drawn a 10 from bag X
+player0 hand is 15, 10, 11, 8, 10
+player0 has drawn a 10 from bag X
+player0 hand is 15, 10, 11, 8, 10, 10
+player0 has drawn a 10 from bag X
+player0 hand is 15, 10, 11, 8, 10, 10, 10
+player0 has drawn a 20 from bag X
+player0 hand is 15, 10, 11, 8, 10, 10, 10, 20
+player0 has drawn a 5 from bag X
+player0 hand is 15, 10, 11, 8, 10, 10, 10, 20, 5
+player0 has drawn a 10 from bag X
+player0 hand is 15, 10, 11, 8, 10, 10, 10, 20, 5, 10
+player0 has discarded a 15 to bag A
+player0 hand is 10, 11, 8, 10, 10, 10, 20, 5, 10
+player0 has drawn a 20 from bag Z
+player0 hand is 10, 11, 8, 10, 10, 10, 20, 5, 10, 20
+player0 has discarded a 8 to bag C
+player0 hand is 10, 11, 10, 10, 10, 20, 5, 10, 20
+player0 has drawn a 10 from bag Z
+player0 hand is 10, 11, 10, 10, 10, 20, 5, 10, 20, 10
+player0 has discarded a 10 to bag C
+player0 hand is 10, 11, 10, 10, 20, 5, 10, 20, 10
+player0 has drawn a 5 from bag Y
+player0 hand is 10, 11, 10, 10, 20, 5, 10, 20, 10, 5
+player0 has discarded a 10 to bag B
+player0 hand is 10, 11, 10, 10, 20, 5, 20, 10, 5
+player0 has drawn a 9 from bag Y
+player0 hand is 10, 11, 10, 10, 20, 5, 20, 10, 5, 9
+player0 has discarded a 10 to bag B
+player0 hand is 10, 11, 10, 10, 20, 5, 20, 5, 9
+player0 has drawn a 10 from bag Y
+player0 hand is 10, 11, 10, 10, 20, 5, 20, 5, 9, 10
+player0 has discarded a 10 to bag B
+player0 hand is 11, 10, 10, 20, 5, 20, 5, 9, 10
+player0 has drawn a 10 from bag Y
+player0 hand is 11, 10, 10, 20, 5, 20, 5, 9, 10, 10
+player0 has discarded a 10 to bag B
+player0 hand is 11, 10, 10, 20, 5, 20, 5, 9, 10
+player0 has drawn a 10 from bag Z
+player0 hand is 11, 10, 10, 20, 5, 20, 5, 9, 10, 10
+player0 has discarded a 20 to bag C
+player0 hand is 11, 10, 10, 5, 20, 5, 9, 10, 10
+player0 has drawn a 10 from bag Z
+player0 hand is 11, 10, 10, 5, 20, 5, 9, 10, 10, 10

@@ -1,0 +1,9 @@
+Pebble is its own separate class, as we can use them all separately outside of a bag.
+PebbleBag colour is only a string, as withdrawing and depositing to a bag is used for both.
+We create a list of integers in Pebbles, as that lets us handle the instancing of pebbles within a pebbleBag.
+The specification says that multiple players should play, so you need more than one player.
+
+IF WE MAKE A GAMEWON VARIABLE THAT IS AN ATOMICBOOLEAN,
+THEN WE ONLY NEED TO CONTINUE RUNNING THREADS UNTIL GAMEWON IS DONE! (VOLATILE MAY ALSO BE GOOD)
+
+I THINK MAKE PLAYERS A NESTED CLASS IN THE CLASS (cause players won't exist outside of the game)
